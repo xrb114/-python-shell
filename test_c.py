@@ -2,7 +2,7 @@ import os
 import socket
 import time
 
-HOST = 'byte2023.icu' 
+HOST = '你自己服务器的ip或者域名' 
 PORT = 7897
 
 while True:
