@@ -3,7 +3,7 @@ import socket
 import time
 
 HOST = '你自己服务器的ip或者域名' 
-PORT = 7897
+PORT = 7896
 
 while True:
     # 创建 socket 对象
